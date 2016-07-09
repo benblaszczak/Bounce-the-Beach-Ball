@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/BaseGameUtils/BaseGameUtils.iml" filepath="$PROJECT_DIR$/BaseGameUtils/BaseGameUtils.iml" />
       <module fileurl="file://$PROJECT_DIR$/BeachBallBounce.iml" filepath="$PROJECT_DIR$/BeachBallBounce.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://D:/Repositories/BobEngine/BobEngine/bobEngine/bobEngine.iml" filepath="D:/Repositories/BobEngine/BobEngine/bobEngine/bobEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bobEngine/bobEngine.iml" filepath="$PROJECT_DIR$/bobEngine/bobEngine.iml" />
     </modules>
   </component>
 </project>

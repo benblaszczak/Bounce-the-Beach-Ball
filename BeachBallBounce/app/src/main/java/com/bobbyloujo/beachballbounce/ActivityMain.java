@@ -101,7 +101,7 @@ public class ActivityMain extends BaseGameActivity {
 		/* ADMOB */
 
 		// Build the ad request. Don't forget to add your test devices.
-		request = new AdRequest.Builder().addTestDevice("BF478725C3969A67EF25C8FDE10283E6").build();
+		request = new AdRequest.Builder().addTestDevice(AdRequest.DEVICE_ID_EMULATOR).build();
 
 		// Initialize the banner ad
 		banner = new AdView(this);

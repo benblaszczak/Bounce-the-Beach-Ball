@@ -11,7 +11,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/BaseGameUtils" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="D:/Repositories/BobEngine/BobEngine/bobEngine" />
+            <option value="$PROJECT_DIR$/bobEngine" />
           </set>
         </option>
         <option name="myModules">
@@ -19,7 +19,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/BaseGameUtils" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="D:/Repositories/BobEngine/BobEngine/bobEngine" />
+            <option value="$PROJECT_DIR$/bobEngine" />
           </set>
         </option>
       </GradleProjectSettings>

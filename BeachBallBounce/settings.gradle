@@ -1,3 +1,1 @@
-include ':app', ':bobEngine', ':BaseGameUtils'
-String bobEnginePath = System.getenv('BOBENGINE')
-project(":bobEngine").projectDir=new File(bobEnginePath)
+include ':app', ':BaseGameUtils', ':bobEngine'
