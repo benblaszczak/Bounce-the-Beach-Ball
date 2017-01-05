@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Bounce the Beach Ball</string>
-    <string name="app_id">810324298354</string>
+    <string name="app_id">your_id_for_google_play_games</string>
     <string name="title_activity_activity_about">About</string>
     <string name="action_settings">Settings</string>
 
